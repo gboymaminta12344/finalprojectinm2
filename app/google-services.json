@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146860836384",
+    "firebase_url": "https://rent-a-space-2-90833.firebaseio.com",
+    "project_id": "rent-a-space-2-90833",
+    "storage_bucket": "rent-a-space-2-90833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146860836384:android:505dbcea0baed3cb025e45",
+        "android_client_info": {
+          "package_name": "com.android2.rent_a_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146860836384-jslfvceou3qjigucrgekjhof6uj6ebr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkzvRTVeiLKMXbpaujyJw2fT_8DkSRHxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146860836384-jslfvceou3qjigucrgekjhof6uj6ebr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
